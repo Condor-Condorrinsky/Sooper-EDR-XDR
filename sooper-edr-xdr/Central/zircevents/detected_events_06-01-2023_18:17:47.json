@@ -1,0 +1,41 @@
+[{
+  "title": "Security Eventlog Cleared",
+  "id": "d99b79d2-0a6f-4f46-ad8b-260b6e17f982",
+  "description": "One of the Windows Eventlogs has been cleared. e.g. caused by \"wevtutil cl\" command execution",
+  "sigmafile": "win_security_susp_eventlog_cleared.yml",
+  "sigma": [
+    "SELECT * FROM logs WHERE (Channel = 'Security' AND ((EventID = '517' AND Provider_Name = 'Security') OR (EventID = '1102' AND Provider_Name = 'Microsoft-Windows-Eventlog')))"
+  ],
+  "rule_level": "high",
+  "tags": [
+    "attack.defense_evasion",
+    "attack.t1070.001",
+    "car.2016-04-002"
+  ],
+  "count": 1,
+  "matches": [
+    {
+      "row_id": 72,
+      "SubjectDomainName": "DESKTOP-N69PNEU",
+      "SubjectLogonId": "0x7c7f581",
+      "SubjectUserName": "ezych",
+      "SubjectUserSid": "S-1-5-21-1295019123-3238983669-1719016479-1002",
+      "Channel": "Security",
+      "Computer": "DESKTOP-N69PNEU",
+      "EventID": 1102,
+      "EventRecordID": 301213,
+      "ProcessID": 1924,
+      "ThreadID": 11132,
+      "Keywords": "0x4020000000000000",
+      "Level": 4,
+      "Opcode": 0,
+      "Guid": "{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}",
+      "Provider_Name": "Microsoft-Windows-Eventlog",
+      "Task": 104,
+      "SystemTime": "2023-01-03T11:11:45.670915Z",
+      "Version": 0,
+      "OriginalLogfile": "test.evtx-13K7O0A8.json"
+    }
+  ]
+},
+{}]

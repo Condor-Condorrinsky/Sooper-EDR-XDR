@@ -1,0 +1,2195 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+<Events><Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">1102</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:45.670914"></TimeCreated>
+<EventRecordID>301213</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1924" ThreadID="11132"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserSid>S-1-5-21-1295019123-3238983669-1719016479-1002</SubjectUserSid>
+<SubjectUserName>ezych</SubjectUserName>
+<SubjectDomainName>DESKTOP-N69PNEU</SubjectDomainName>
+<SubjectLogonId>0x0000000007c7f581</SubjectLogonId>
+</LogFileCleared>
+</UserData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.284454"></TimeCreated>
+<EventRecordID>301214</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.288677"></TimeCreated>
+<EventRecordID>301215</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Go&#347;&#263;</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.290293"></TimeCreated>
+<EventRecordID>301216</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Konto domy&#347;lne</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.291885"></TimeCreated>
+<EventRecordID>301217</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">WDAGUtilityAccount</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.294209"></TimeCreated>
+<EventRecordID>301218</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.309721"></TimeCreated>
+<EventRecordID>301219</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="CallerProcessId">0x0000000000002bc8</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\RuntimeBroker.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.312223"></TimeCreated>
+<EventRecordID>301220</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Konto domy&#347;lne</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.315155"></TimeCreated>
+<EventRecordID>301221</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">WDAGUtilityAccount</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4797</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.318125"></TimeCreated>
+<EventRecordID>301222</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="Workstation">DESKTOP-N69PNEU</Data>
+<Data Name="TargetUserName">Go&#347;&#263;</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:51.321209"></TimeCreated>
+<EventRecordID>301223</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">Go&#347;&#263;</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-501</Data>
+<Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x0000000007c83976</Data>
+<Data Name="CallerProcessId">0x0000000000002bc8</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\RuntimeBroker.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4647</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.155325"></TimeCreated>
+<EventRecordID>301224</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetLogonId">0x0000000007c83976</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.230793"></TimeCreated>
+<EventRecordID>301225</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-500</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x000000000000087c</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.231148"></TimeCreated>
+<EventRecordID>301226</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x000000000000087c</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.231436"></TimeCreated>
+<EventRecordID>301227</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">Go&#347;&#263;</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-501</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x000000000000087c</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.231750"></TimeCreated>
+<EventRecordID>301228</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">Konto domy&#347;lne</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-503</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x000000000000087c</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.232168"></TimeCreated>
+<EventRecordID>301229</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">WDAGUtilityAccount</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-504</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x000000000000087c</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.468971"></TimeCreated>
+<EventRecordID>301230</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-18</Data>
+<Data Name="TargetUserName">SYSTEM</Data>
+<Data Name="TargetDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="TargetLogonId">0x00000000000003e7</Data>
+<Data Name="LogonType">5</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000250</Data>
+<Data Name="ProcessName">C:\Windows\System32\services.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000000000000</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.468983"></TimeCreated>
+<EventRecordID>301231</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">SYSTEM</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="PrivilegeList">SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4648</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.515350"></TimeCreated>
+<EventRecordID>301232</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetUserName">UMFD-28</Data>
+<Data Name="TargetDomainName">Font Driver Host</Data>
+<Data Name="TargetLogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetServerName">localhost</Data>
+<Data Name="TargetInfo">localhost</Data>
+<Data Name="ProcessId">0x000000000000248c</Data>
+<Data Name="ProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.515373"></TimeCreated>
+<EventRecordID>301233</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-96-0-28</Data>
+<Data Name="TargetUserName">UMFD-28</Data>
+<Data Name="TargetDomainName">Font Driver Host</Data>
+<Data Name="TargetLogonId">0x0000000007ff2d40</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000248c</Data>
+<Data Name="ProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1842</Data>
+<Data Name="TargetLinkedLogonId">0x0000000000000000</Data>
+<Data Name="ElevatedToken">%%1843</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4648</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.576750"></TimeCreated>
+<EventRecordID>301234</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetUserName">DWM-28</Data>
+<Data Name="TargetDomainName">Window Manager</Data>
+<Data Name="TargetLogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetServerName">localhost</Data>
+<Data Name="TargetInfo">localhost</Data>
+<Data Name="ProcessId">0x000000000000248c</Data>
+<Data Name="ProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.576775"></TimeCreated>
+<EventRecordID>301235</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-90-0-28</Data>
+<Data Name="TargetUserName">DWM-28</Data>
+<Data Name="TargetDomainName">Window Manager</Data>
+<Data Name="TargetLogonId">0x0000000007ff5007</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000248c</Data>
+<Data Name="ProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1842</Data>
+<Data Name="TargetLinkedLogonId">0x0000000007ff510d</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.576794"></TimeCreated>
+<EventRecordID>301236</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-90-0-28</Data>
+<Data Name="TargetUserName">DWM-28</Data>
+<Data Name="TargetDomainName">Window Manager</Data>
+<Data Name="TargetLogonId">0x0000000007ff510d</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000248c</Data>
+<Data Name="ProcessName">C:\Windows\System32\winlogon.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1842</Data>
+<Data Name="TargetLinkedLogonId">0x0000000007ff5007</Data>
+<Data Name="ElevatedToken">%%1843</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.576801"></TimeCreated>
+<EventRecordID>301237</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-90-0-28</Data>
+<Data Name="SubjectUserName">DWM-28</Data>
+<Data Name="SubjectDomainName">Window Manager</Data>
+<Data Name="SubjectLogonId">0x0000000007ff5007</Data>
+<Data Name="PrivilegeList">SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege
+			SeImpersonatePrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.576803"></TimeCreated>
+<EventRecordID>301238</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-90-0-28</Data>
+<Data Name="SubjectUserName">DWM-28</Data>
+<Data Name="SubjectDomainName">Window Manager</Data>
+<Data Name="SubjectLogonId">0x0000000007ff510d</Data>
+<Data Name="PrivilegeList">SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.787853"></TimeCreated>
+<EventRecordID>301239</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-96-0-27</Data>
+<Data Name="TargetUserName">UMFD-27</Data>
+<Data Name="TargetDomainName">Font Driver Host</Data>
+<Data Name="TargetLogonId">0x0000000007c38560</Data>
+<Data Name="LogonType">2</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.795471"></TimeCreated>
+<EventRecordID>301240</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-90-0-27</Data>
+<Data Name="TargetUserName">DWM-27</Data>
+<Data Name="TargetDomainName">Window Manager</Data>
+<Data Name="TargetLogonId">0x0000000007c39625</Data>
+<Data Name="LogonType">2</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:53.795555"></TimeCreated>
+<EventRecordID>301241</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-90-0-27</Data>
+<Data Name="TargetUserName">DWM-27</Data>
+<Data Name="TargetDomainName">Window Manager</Data>
+<Data Name="TargetLogonId">0x0000000007c395dc</Data>
+<Data Name="LogonType">2</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4798</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:11:54.040483"></TimeCreated>
+<EventRecordID>301242</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x00000000000024b8</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\LogonUI.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:00.194059"></TimeCreated>
+<EventRecordID>301243</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:00.195925"></TimeCreated>
+<EventRecordID>301244</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4625</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:00.206745"></TimeCreated>
+<EventRecordID>301245</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="Status">0xc000006d</Data>
+<Data Name="FailureReason">%%2304</Data>
+<Data Name="SubStatus">0xc0000380</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:02.408535"></TimeCreated>
+<EventRecordID>301246</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:02.410374"></TimeCreated>
+<EventRecordID>301247</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4625</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:02.419529"></TimeCreated>
+<EventRecordID>301248</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="Status">0xc000006d</Data>
+<Data Name="FailureReason">%%2304</Data>
+<Data Name="SubStatus">0xc0000380</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:04.865713"></TimeCreated>
+<EventRecordID>301249</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:04.867672"></TimeCreated>
+<EventRecordID>301250</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4625</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:04.879585"></TimeCreated>
+<EventRecordID>301251</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="Status">0xc000006d</Data>
+<Data Name="FailureReason">%%2304</Data>
+<Data Name="SubStatus">0xc0000380</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:06.863455"></TimeCreated>
+<EventRecordID>301252</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:06.865732"></TimeCreated>
+<EventRecordID>301253</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4625</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:06.878078"></TimeCreated>
+<EventRecordID>301254</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="Status">0xc000006d</Data>
+<Data Name="FailureReason">%%2304</Data>
+<Data Name="SubStatus">0xc0000380</Data>
+<Data Name="LogonType">2</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.208597"></TimeCreated>
+<EventRecordID>301255</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.212385"></TimeCreated>
+<EventRecordID>301256</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4738</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.253925"></TimeCreated>
+<EventRecordID>301257</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0000-52b3-e8deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="Dummy">-</Data>
+<Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="PrivilegeList">-</Data>
+<Data Name="SamAccountName">-</Data>
+<Data Name="DisplayName">Eryk Zych</Data>
+<Data Name="UserPrincipalName">-</Data>
+<Data Name="HomeDirectory">-</Data>
+<Data Name="HomePath">-</Data>
+<Data Name="ScriptPath">-</Data>
+<Data Name="ProfilePath">-</Data>
+<Data Name="UserWorkstations">-</Data>
+<Data Name="PasswordLastSet">-</Data>
+<Data Name="AccountExpires">-</Data>
+<Data Name="PrimaryGroupId">-</Data>
+<Data Name="AllowedToDelegateTo">-</Data>
+<Data Name="OldUacValue">-</Data>
+<Data Name="NewUacValue">-</Data>
+<Data Name="UserAccountControl">-</Data>
+<Data Name="UserParameters">-</Data>
+<Data Name="SidHistory">-</Data>
+<Data Name="LogonHours">-</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4648</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.262947"></TimeCreated>
+<EventRecordID>301258</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetServerName">localhost</Data>
+<Data Name="TargetInfo">localhost</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.263023"></TimeCreated>
+<EventRecordID>301259</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonId">0x0000000008008261</Data>
+<Data Name="LogonType">11</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">DESKTOP-N69PNEU</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x00000000080082b6</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.263062"></TimeCreated>
+<EventRecordID>301260</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonId">0x00000000080082b6</Data>
+<Data Name="LogonType">11</Data>
+<Data Name="LogonProcessName">User32 </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">DESKTOP-N69PNEU</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x000000000000087c</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="IpAddress">127.0.0.1</Data>
+<Data Name="IpPort">0</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000008008261</Data>
+<Data Name="ElevatedToken">%%1843</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.263075"></TimeCreated>
+<EventRecordID>301261</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych7@gmail.com</Data>
+<Data Name="SubjectDomainName">MicrosoftAccount</Data>
+<Data Name="SubjectLogonId">0x0000000008008261</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.280188"></TimeCreated>
+<EventRecordID>301262</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.283190"></TimeCreated>
+<EventRecordID>301263</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-19</Data>
+<Data Name="SubjectUserName">US&#321;UGA LOKALNA</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e5</Data>
+<Data Name="ClientProcessId">4840</Data>
+<Data Name="ClientCreationTime">2022-12-14 18:36:19.717480</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">RSA</Data>
+<Data Name="KeyName">{4D2FA6AC-8F29-421D-8064-02EB30CD3727}</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4738</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.311592"></TimeCreated>
+<EventRecordID>301264</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0000-54b3-e8deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12212"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="Dummy">-</Data>
+<Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="PrivilegeList">-</Data>
+<Data Name="SamAccountName">-</Data>
+<Data Name="DisplayName">Eryk Zych</Data>
+<Data Name="UserPrincipalName">-</Data>
+<Data Name="HomeDirectory">-</Data>
+<Data Name="HomePath">-</Data>
+<Data Name="ScriptPath">-</Data>
+<Data Name="ProfilePath">-</Data>
+<Data Name="UserWorkstations">-</Data>
+<Data Name="PasswordLastSet">-</Data>
+<Data Name="AccountExpires">-</Data>
+<Data Name="PrimaryGroupId">-</Data>
+<Data Name="AllowedToDelegateTo">-</Data>
+<Data Name="OldUacValue">-</Data>
+<Data Name="NewUacValue">-</Data>
+<Data Name="UserAccountControl">-</Data>
+<Data Name="UserParameters">-</Data>
+<Data Name="SidHistory">-</Data>
+<Data Name="LogonHours">-</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4648</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317543"></TimeCreated>
+<EventRecordID>301265</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12212"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TargetServerName">localhost</Data>
+<Data Name="TargetInfo">localhost</Data>
+<Data Name="ProcessId">0x0000000000000440</Data>
+<Data Name="ProcessName">C:\Windows\System32\lsass.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317604"></TimeCreated>
+<EventRecordID>301266</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12212"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonId">0x0000000008008692</Data>
+<Data Name="LogonType">7</Data>
+<Data Name="LogonProcessName">Negotiat</Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">DESKTOP-N69PNEU</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000440</Data>
+<Data Name="ProcessName">C:\Windows\System32\lsass.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000008008713</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317629"></TimeCreated>
+<EventRecordID>301267</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12212"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych7@gmail.com</Data>
+<Data Name="TargetDomainName">MicrosoftAccount</Data>
+<Data Name="TargetLogonId">0x0000000008008713</Data>
+<Data Name="LogonType">7</Data>
+<Data Name="LogonProcessName">Negotiat</Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">DESKTOP-N69PNEU</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000440</Data>
+<Data Name="ProcessName">C:\Windows\System32\lsass.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000008008692</Data>
+<Data Name="ElevatedToken">%%1843</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317636"></TimeCreated>
+<EventRecordID>301268</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12212"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych7@gmail.com</Data>
+<Data Name="SubjectDomainName">MicrosoftAccount</Data>
+<Data Name="SubjectLogonId">0x0000000008008692</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317785"></TimeCreated>
+<EventRecordID>301269</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetLogonId">0x0000000008008713</Data>
+<Data Name="LogonType">7</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.317846"></TimeCreated>
+<EventRecordID>301270</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2700"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="TargetUserName">ezych</Data>
+<Data Name="TargetDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="TargetLogonId">0x0000000008008692</Data>
+<Data Name="LogonType">7</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4799</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13826</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.375048"></TimeCreated>
+<EventRecordID>301271</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserName">Administratorzy</Data>
+<Data Name="TargetDomainName">Builtin</Data>
+<Data Name="TargetSid">S-1-5-32-544</Data>
+<Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="CallerProcessId">0x0000000000000774</Data>
+<Data Name="CallerProcessName">C:\Windows\System32\svchost.exe</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.425173"></TimeCreated>
+<EventRecordID>301272</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="TargetName">MicrosoftAccount:user=ezych7@gmail.com</Data>
+<Data Name="Type">0</Data>
+<Data Name="CountOfCredentialsReturned">1</Data>
+<Data Name="ReadOperation">%%8100</Data>
+<Data Name="ReturnCode">0</Data>
+<Data Name="ProcessCreationTime">2023-01-03 11:11:06.724886</Data>
+<Data Name="ClientProcessId">6928</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.427433"></TimeCreated>
+<EventRecordID>301273</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="TargetName">WindowsLive:(token):name=ezych7@gmail.com;serviceuri=*</Data>
+<Data Name="Type">0</Data>
+<Data Name="CountOfCredentialsReturned">0</Data>
+<Data Name="ReadOperation">%%8100</Data>
+<Data Name="ReturnCode">3221226021</Data>
+<Data Name="ProcessCreationTime">2023-01-03 11:11:06.724886</Data>
+<Data Name="ClientProcessId">6928</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.427526"></TimeCreated>
+<EventRecordID>301274</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="TargetName">WindowsLive:(cert):name=ezych7@gmail.com;serviceuri=*</Data>
+<Data Name="Type">0</Data>
+<Data Name="CountOfCredentialsReturned">0</Data>
+<Data Name="ReadOperation">%%8100</Data>
+<Data Name="ReturnCode">3221226021</Data>
+<Data Name="ProcessCreationTime">2023-01-03 11:11:06.724886</Data>
+<Data Name="ClientProcessId">6928</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.480173"></TimeCreated>
+<EventRecordID>301275</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-18</Data>
+<Data Name="TargetUserName">SYSTEM</Data>
+<Data Name="TargetDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="TargetLogonId">0x00000000000003e7</Data>
+<Data Name="LogonType">5</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000250</Data>
+<Data Name="ProcessName">C:\Windows\System32\services.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000000000000</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.480185"></TimeCreated>
+<EventRecordID>301276</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">SYSTEM</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="PrivilegeList">SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.542402"></TimeCreated>
+<EventRecordID>301277</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetName">XboxLive</Data>
+<Data Name="Type">1</Data>
+<Data Name="CountOfCredentialsReturned">1</Data>
+<Data Name="ReadOperation">%%8099</Data>
+<Data Name="ReturnCode">0</Data>
+<Data Name="ProcessCreationTime">2023-01-03 11:12:18.488571</Data>
+<Data Name="ClientProcessId">840</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5382</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.595461"></TimeCreated>
+<EventRecordID>301278</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="SchemaFriendlyName">NGC Local Accoount Logon Vault Resource Schema</Data>
+<Data Name="Schema">{1d4350a3-330d-4af9-b3ff-a927a45998ac}</Data>
+<Data Name="Resource">NGC Local Accoount Logon Vault Resource</Data>
+<Data Name="Identity">010500000000000515000000736C304DF5F70EC11F1C7666EA030000</Data>
+<Data Name="PackageSid"></Data>
+<Data Name="Flags">0</Data>
+<Data Name="ReturnCode">1168</Data>
+<Data Name="ProcessCreationTime">2022-12-16 08:53:56.710241</Data>
+<Data Name="ClientProcessId">9680</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.618238"></TimeCreated>
+<EventRecordID>301279</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="TargetName">XboxLive</Data>
+<Data Name="Type">1</Data>
+<Data Name="CountOfCredentialsReturned">1</Data>
+<Data Name="ReadOperation">%%8099</Data>
+<Data Name="ReturnCode">3221226021</Data>
+<Data Name="ProcessCreationTime">2023-01-03 11:12:18.488571</Data>
+<Data Name="ClientProcessId">840</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5058</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.808743"></TimeCreated>
+<EventRecordID>301280</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="ClientProcessId">5368</Data>
+<Data Name="ClientCreationTime">2023-01-03 11:12:18.477213</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">UNKNOWN</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="KeyFilePath">C:\Users\ezych\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_f53e4a0e-cf63-41fb-ba48-344f4bfa250f</Data>
+<Data Name="Operation">%%2458</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5061</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12290</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.809385"></TimeCreated>
+<EventRecordID>301281</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">ECDSA_P256</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2480</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">5059</EventID>
+<Version>1</Version>
+<Level>0</Level>
+<Task>12292</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:18.810289"></TimeCreated>
+<EventRecordID>301282</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="12632"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1295019123-3238983669-1719016479-1002</Data>
+<Data Name="SubjectUserName">ezych</Data>
+<Data Name="SubjectDomainName">DESKTOP-N69PNEU</Data>
+<Data Name="SubjectLogonId">0x00000000080082b6</Data>
+<Data Name="ClientProcessId">5368</Data>
+<Data Name="ClientCreationTime">2023-01-03 11:12:18.477213</Data>
+<Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="AlgorithmName">ECDSA_P256</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyType">%%2500</Data>
+<Data Name="Operation">%%2464</Data>
+<Data Name="ReturnCode">0x00000000</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:20.179399"></TimeCreated>
+<EventRecordID>301283</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">DESKTOP-N69PNEU$</Data>
+<Data Name="SubjectDomainName">WORKGROUP</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="TargetUserSid">S-1-5-18</Data>
+<Data Name="TargetUserName">SYSTEM</Data>
+<Data Name="TargetDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="TargetLogonId">0x00000000000003e7</Data>
+<Data Name="LogonType">5</Data>
+<Data Name="LogonProcessName">Advapi  </Data>
+<Data Name="AuthenticationPackageName">Negotiate</Data>
+<Data Name="WorkstationName">-</Data>
+<Data Name="LogonGuid">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">-</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000250</Data>
+<Data Name="ProcessName">C:\Windows\System32\services.exe</Data>
+<Data Name="IpAddress">-</Data>
+<Data Name="IpPort">-</Data>
+<Data Name="ImpersonationLevel">%%1833</Data>
+<Data Name="RestrictedAdminMode">-</Data>
+<Data Name="TargetOutboundUserName">-</Data>
+<Data Name="TargetOutboundDomainName">-</Data>
+<Data Name="VirtualAccount">%%1843</Data>
+<Data Name="TargetLinkedLogonId">0x0000000000000000</Data>
+<Data Name="ElevatedToken">%%1842</Data>
+</EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2023-01-03 11:12:20.179409"></TimeCreated>
+<EventRecordID>301284</EventRecordID>
+<Correlation ActivityID="{deb1f6ff-0fea-0001-a6f7-b1deea0fd901}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="4732"></Execution>
+<Channel>Security</Channel>
+<Computer>DESKTOP-N69PNEU</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-18</Data>
+<Data Name="SubjectUserName">SYSTEM</Data>
+<Data Name="SubjectDomainName">ZARZ&#260;DZANIE NT</Data>
+<Data Name="SubjectLogonId">0x00000000000003e7</Data>
+<Data Name="PrivilegeList">SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege</Data>
+</EventData>
+</Event>
+</Events>

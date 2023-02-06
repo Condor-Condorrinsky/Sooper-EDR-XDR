@@ -1,0 +1,7 @@
+# List of all ignored directries and files:
+.vscode/
+**/__pycache__
+venv/
+sooper-edr-xdr/Central/libs/ZircoliteEngine/tmp*
+sooper-edr-xdr/Central/libs/ZircoliteEngine/zircolite.log
+sooper-edr-xdr/Central/libs/ZircoliteEngine/detected_events.json
